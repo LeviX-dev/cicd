@@ -1,0 +1,11 @@
+# Ignore a specific file
+secrets.env
+
+# Ignore a specific directory (include the trailing slash)
+node_modules/
+build/
+
+# Ignore all files matching an extension
+*.log
+*.tmp
+node_modules/
